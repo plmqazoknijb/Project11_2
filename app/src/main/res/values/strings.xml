@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Project11_2</string>
+    <string name="title01">귀멸의 칼날:무한열차</string>
+    <string name="title02">명탐정 코난:감청의 권</string>
+    <string name="title03">하이큐!!</string>
+    <string name="title04">약속의 네버랜드</string>
+    <string name="title05">짱구는 못말려:폭풍수면! 꿈꾸는 세계 대돌격</string>
+    <string name="title06">명탐정 코난:화염의 해바라기</string>
+    <string name="title07">명탐정 코난:제로의 집행인</string>
+    <string name="title08">해변의 에트리제</string>
+    <string name="title09">기븐 극장판</string>
+    <string name="title10">코드 기아스:반역의 를르슈</string>
+    <string name="title11">아이엠스타1</string>
+    <string name="title12">프리티리듬:오로라드림</string>
+    <string name="title13">샤이닝 스타 극장판</string>
 </resources>
